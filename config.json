@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordereonnect",
+        "uuid": 14361924,
+        "checksum": "wusx6"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
